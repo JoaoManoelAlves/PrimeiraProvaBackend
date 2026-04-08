@@ -1,4 +1,3 @@
-import { True } from './../generated/prisma/internal/prismaNamespace';
 import { FastifyInstance, FastifyReply, FastifyRequest } from "fastify";
 import { prisma } from "../lib/prisma";
 
